@@ -3159,4 +3159,8 @@ input, select, textarea {
 		width: 80%;
 	  }
 
+	  .btn-cerrar {
+		cursor="default"
+	  }
+
 	
